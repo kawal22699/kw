@@ -1,0 +1,153 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Architects Daughter', cursive;
+  color: #40514E;
+}
+h1{
+  margin-top: 0;
+  font-size: 5.625rem;
+  margin-bottom: 0;
+  color: #66BFBF;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  text-align: center;
+
+}
+h3{
+  font-size: 2.5rem;
+  color: #11999E;
+}
+P{
+  font-size: 1.5rem;
+  font-family: serif;
+  line-height: 2;
+}
+hr{
+  border-color: #EAF6F6;
+  border-style: dotted none none;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 10%;
+  border-width: 10px;
+}
+a{
+  color: #11999E;
+  font-family: 'Architects Daughter', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+color: #EAF6F6;
+}
+.top-container{
+  background-color: #bbf1c8;
+  padding-top: 150px;
+}
+.middle-container{
+margin: 100px 0;
+}
+.bottom-container{
+background-color: #bbf1c8;
+padding-bottom: 20px;
+padding-top: 50px;
+}
+.pro{
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+.mountain{
+  align-self: center;
+  height: 250px;
+
+}
+.bottomcloud{
+  position: absolute;
+  left: 420px;
+}
+.topcloud{
+  position:relative;
+  left:280px;
+}
+.profile{
+  margin-top: 10px;
+}
+.imgprofile{
+  border-radius: 200px;
+}
+.web-img{
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.cola-img{
+  height: 200px;
+  float: right;
+  margin-left: 10px;
+}
+.skill-row{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  padding-bottom: 50px;
+}
+.anchor{
+  color: #11999E;
+}
+.prog{
+  font-weight: normal;
+  line-height: 2;
+  color: #66BFBF;
+}
+.contact-me{
+  padding-top: 10px;
+}
+.copyright{
+  color: #66BFBF;
+  font-size: 10px;
+  padding-top: 20px;
+}
+.btn {
+	-moz-box-shadow:     ;
+	-webkit-box-shadow:     ;
+	box-shadow:     ;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #44c767), color-stop(1, #5cbf2a) );
+	background:-moz-linear-gradient( center top, #44c767 5%, #5cbf2a 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#44c767', endColorstr='#5cbf2a');
+	background-color:#44c767;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	border:1px solid #264f91;
+	display:inline-block;
+	color:#ffffff;
+	font-family:'Architects Daughter', cursive;
+	font-size:20px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #5cbf2a), color-stop(1, #44c767) );
+	background:-moz-linear-gradient( center top, #5cbf2a 5%, #44c767 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#5cbf2a', endColorstr='#44c767');
+	background-color:#5cbf2a;
+}.btn:active {
+	position:relative;
+	top:1px;
